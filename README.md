@@ -1,25 +1,4 @@
-﻿# ClaimsManagmentSystem
-
-Project Breakdown
- breaking down the project into small, manageable tasks. Here's an initial action plan:
-Set up Spring Boot Project with dependencies.
-Create the database schema with models (Customer, Claim, Administrator, Notification).
-Create RESTful API for CRUD operations on Claims, Users, etc.
-Build the frontend with Thymeleaf templates (Login, Sign Up, etc.).
-Implement Spring Security for authentication and session management.
-Style the frontend with responsive CSS (inline, internal, and external).
-Write unit tests for the service and repository layers.
-Deploy the application.
-
-Tech Stack
-Frontend:
-HTML, CSS (with Thymeleaf for dynamic rendering)
-JavaScript for client-side interactivity
-Backend:
-Spring Boot (Java framework)
-Spring Security for authentication and role management
-Database:
-MySQL
+Spring 
 Testing:
 Mockito for unit testing and mocking
 Version Control:
